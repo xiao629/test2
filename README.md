@@ -1,3 +1,4 @@
+```
 import random
 a=[]
 while len(a)<7:
@@ -40,3 +41,4 @@ while p==0:
         print("恭喜您號碼全中!!!")
     else:
         print("您中了",star,"個號碼")
+```
